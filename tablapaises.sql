@@ -245,7 +245,7 @@ INSERT INTO `paises` VALUES(233, 'VN', 'Vietnam','Asia','vn.png','Hanoi',9620898
 INSERT INTO `paises` VALUES(234, 'VG', 'Islas Vírgenes Británicas','América del Norte','vg.png','Islas Vírgenes Británicas',30030,'Dólar de los Estados Unidos');
 INSERT INTO `paises` VALUES(235, 'VI', 'Islas Vírgenes de los Estados Unidos','América del Norte','vi.png','Islas Vírgenes de los Estados Unidos',104589,'Dólar de los Estados Unidos');
 INSERT INTO `paises` VALUES(236, 'WF', 'Wallis y Futuna','Oceanía','wf.png','Wallis y Futuna',11700,'Dólar de los Estados Unidos');
-INSERT INTO `paises` VALUES(237, 'YE', 'Yemen','Asia','ye.png','Saná',29161922,'Rial yemení');
+INSERT INTO `paises` VALUES(237, 'YE', 'Yemen','Áfica-Asia','ye.png','Saná',29161922,'Rial yemení');
 INSERT INTO `paises` VALUES(238, 'DJ', 'Yibuti','África','dj.png','Yibuti',1078383,'Franco yibutiano');
 INSERT INTO `paises` VALUES(239, 'ZM', 'Zambia','África','zm.png','Lusaka',17381168,'Kwacha zambiano');
 INSERT INTO `paises` VALUES(240, 'ZW', 'Zimbabue','África','zw.png','Harare',15159624,'Dólar de los Estados Unidos');
